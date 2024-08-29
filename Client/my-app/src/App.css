@@ -1,0 +1,17 @@
+/* src/app.css */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* Example styles */
+body {
+  background-color: blueviolet;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  /* Add any other styles you need */
+  
